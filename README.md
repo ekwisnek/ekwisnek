@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ekwisnek
 - 👀 I’m interested in container orchestration, data visualization, and tinkering with enterprise software at home.
-- 🌱 I’m currently learning Hashicorp Vault
-- 💞️ I’m looking to collaborate on Docker Swarm, because I don't think it's dead.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on secure computing with containers
+- 📫 evan@ctrlplane.io
 
 <!---
 ekwisnek/ekwisnek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
