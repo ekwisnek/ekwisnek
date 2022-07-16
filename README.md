@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekwisnek
 - 👀 I’m interested in container orchestration, data visualization, and tinkering with enterprise software at home.
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning node
 - 💞️ I’m looking to collaborate on secure computing with containers
 - 📫 evan@ctrlplane.io
 
